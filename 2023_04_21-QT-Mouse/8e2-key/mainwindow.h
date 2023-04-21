@@ -22,6 +22,8 @@ public:
     ~MainWindow();
     void paintEvent(QPaintEvent *e);
     void keyPressEvent(QKeyEvent *event);
+    void mousePressEvent(QMouseEvent *event);
+    void mouseMoveEvent(QMouseEvent *event);
     std::vector<Kvadr> kv {{100, 100, 50}, {20, 100, 20}, {100, 20, 70}};
 
 private:
