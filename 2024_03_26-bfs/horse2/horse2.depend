@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711441507 source:c:\users\lobachevaa\documents\github\1580-2022-08e\2024_03_26-bfs\horse2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+
